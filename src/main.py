@@ -5,6 +5,8 @@ import yaml
 import glob
 import msgspec
 import structlog
+import json
+
 from datetime import datetime
 
 from src.types import PluginInfo
@@ -226,8 +228,6 @@ def sync_all_cli() -> None:
 
 async def consolidate_plugins() -> None:
     """Consolidate all individual plugin YAML files into a single plugins.yml file."""
-    import json
-
     await logger.ainfo("Consolidating plugins into single file")
 
     plugins: list[PluginInfo] = await read_plugins()
@@ -251,7 +251,6 @@ async def consolidate_plugins() -> None:
 
 async def consolidate_readmes() -> None:
     """Consolidate all individual README markdown files into a single readmes.json file."""
-    import json
 
     await logger.ainfo("Consolidating READMEs into single JSON file")
 
