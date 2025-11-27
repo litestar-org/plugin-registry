@@ -1,3 +1,38 @@
+sqlspec:
+  key: sqlspec
+  name: SQLSpec
+  description: A query mapper for Python
+  pypi: sqlspec
+  repo: litestar-org/sqlspec
+  github: https://github.com/litestar-org/sqlspec
+  website: https://github.com/litestar-org/sqlspec
+  documentation: https://docs.advanced-alchemy.litestar.dev
+  category: Database
+  type: official
+  maintainers:
+  - name: Cody Fincher
+    github: cofin
+    avatar: https://https://avatars.githubusercontent.com/u/204685?v=4
+  compatibility:
+    litestar: '>=2.0.0'
+  icon: _default_icon.svg
+  stars: 47
+  monthly_downloads: 3368
+  latest_version: 0.31.0
+  updated_at: '2025-11-25T15:19:25'
+  created_at: '2024-10-30T00:48:46'
+  python_compatibility_raw: <4.0,>=3.10
+  python_compatibility:
+    raw: <4.0,>=3.10
+    specifier_set: <4.0,>=3.10
+    compatible:
+    - '3.10'
+    - '3.11'
+    - '3.12'
+    - '3.13'
+    - '3.14'
+  changelog: null
+  issues: https://github.com/litestar-org/sqlspec/issues/
 litestar-saq:
   key: litestar-saq
   name: Litestar SAQ
@@ -17,7 +52,7 @@ litestar-saq:
     litestar: '>=2.0.0'
   icon: _default_icon.svg
   stars: 26
-  monthly_downloads: 13889
+  monthly_downloads: 19808
   latest_version: 0.5.3
   updated_at: '2025-05-05T14:54:31'
   created_at: '2023-10-04T03:57:48'
@@ -34,16 +69,16 @@ litestar-saq:
     - '3.14'
   changelog: https://cofin.github.io/litesatr-saq/latest/changelog
   issues: https://github.com/cofin/litestar-saq/issues/
-litestar-asyncpg:
-  key: litestar-asyncpg
-  name: Litestar AsyncPG
-  description: AsyncPG Plugin for Litestar
-  pypi: litestar-asyncpg
-  repo: litestar-org/litestar-asyncpg
-  github: https://github.com/litestar-org/litestar-asyncpg
-  website: https://github.com/litestar-org/litestar-asyncpg
+litestar-mcp:
+  key: litestar-mcp
+  name: Litestar MCP
+  description: MCP Plugin for Litestar
+  pypi: litestar-mcp
+  repo: cofin/litestar-mcp
+  github: https://github.com/cofin/litestar-mcp
+  website: https://github.com/cofin/litestar-mcp
   documentation: https://docs.advanced-alchemy.litestar.dev
-  category: Database
+  category: AI
   type: official
   maintainers:
   - name: Cody Fincher
@@ -51,12 +86,12 @@ litestar-asyncpg:
     avatar: https://https://avatars.githubusercontent.com/u/204685?v=4
   compatibility:
     litestar: '>=2.0.0'
-  icon: litestar-asyncpg.svg
-  stars: 12
-  monthly_downloads: 957
-  latest_version: 0.5.0
-  updated_at: '2025-06-24T16:45:09'
-  created_at: '2023-10-01T23:31:27'
+  icon: _default_icon.svg
+  stars: 2
+  monthly_downloads: 38
+  latest_version: 0.2.2
+  updated_at: '2025-09-30T12:11:18'
+  created_at: '2025-09-06T19:14:18'
   python_compatibility_raw: '>=3.9'
   python_compatibility:
     raw: '>=3.9'
@@ -68,8 +103,8 @@ litestar-asyncpg:
     - '3.12'
     - '3.13'
     - '3.14'
-  changelog: https://litestar-org.github.io/litesatr-asyncpg/latest/changelog
-  issues: https://github.com/litestar-org/litestar-asyncpg/issues/
+  changelog: https://docs.litestar-mcp.litestar.dev/latest/changelog
+  issues: https://github.com/litestar-org/litestar-mcp/issues/
 litestar-htmx:
   key: litestar-htmx
   name: Litestar HTMX
@@ -89,7 +124,7 @@ litestar-htmx:
     litestar: '>=2.0.0'
   icon: litestar-htmx.svg
   stars: 11
-  monthly_downloads: 969265
+  monthly_downloads: 1069853
   latest_version: 0.5.0
   updated_at: '2025-06-11T21:19:45'
   created_at: '2024-10-20T17:49:03'
@@ -106,14 +141,14 @@ litestar-htmx:
     - '3.14'
   changelog: null
   issues: https://github.com/litestar-org/sqlspec/issues/
-sqlspec:
-  key: sqlspec
-  name: SQLSpec
-  description: A query mapper for Python
-  pypi: sqlspec
-  repo: litestar-org/sqlspec
-  github: https://github.com/litestar-org/sqlspec
-  website: https://github.com/litestar-org/sqlspec
+litestar-asyncpg:
+  key: litestar-asyncpg
+  name: Litestar AsyncPG
+  description: AsyncPG Plugin for Litestar
+  pypi: litestar-asyncpg
+  repo: litestar-org/litestar-asyncpg
+  github: https://github.com/litestar-org/litestar-asyncpg
+  website: https://github.com/litestar-org/litestar-asyncpg
   documentation: https://docs.advanced-alchemy.litestar.dev
   category: Database
   type: official
@@ -123,24 +158,25 @@ sqlspec:
     avatar: https://https://avatars.githubusercontent.com/u/204685?v=4
   compatibility:
     litestar: '>=2.0.0'
-  icon: _default_icon.svg
-  stars: 42
-  monthly_downloads: 2133
-  latest_version: 0.29.0
-  updated_at: '2025-11-06T01:01:15'
-  created_at: '2024-10-30T00:48:46'
-  python_compatibility_raw: <4.0,>=3.10
+  icon: litestar-asyncpg.svg
+  stars: 14
+  monthly_downloads: 899
+  latest_version: 0.5.0
+  updated_at: '2025-06-24T16:45:09'
+  created_at: '2023-10-01T23:31:27'
+  python_compatibility_raw: '>=3.9'
   python_compatibility:
-    raw: <4.0,>=3.10
-    specifier_set: <4.0,>=3.10
+    raw: '>=3.9'
+    specifier_set: '>=3.9'
     compatible:
+    - '3.9'
     - '3.10'
     - '3.11'
     - '3.12'
     - '3.13'
     - '3.14'
-  changelog: null
-  issues: https://github.com/litestar-org/sqlspec/issues/
+  changelog: https://litestar-org.github.io/litesatr-asyncpg/latest/changelog
+  issues: https://github.com/litestar-org/litestar-asyncpg/issues/
 litestar-granian:
   key: litestar-granian
   name: Litestar Granian
@@ -159,8 +195,8 @@ litestar-granian:
   compatibility:
     litestar: '>=2.0.0'
   icon: litestar-granian.png
-  stars: 37
-  monthly_downloads: 10716
+  stars: 38
+  monthly_downloads: 15210
   latest_version: 0.14.2
   updated_at: '2025-08-06T19:54:57'
   created_at: '2023-10-02T01:42:04'
@@ -177,42 +213,6 @@ litestar-granian:
     - '3.14'
   changelog: https://cofin.github.io/litesatr-granian/latest/changelog
   issues: https://github.com/cofin/litestar-granian/issues/
-litestar-oracledb:
-  key: litestar-oracledb
-  name: Litestar OracleDB
-  description: OracleDB Plugin for Litestar
-  pypi: litestar-oracledb
-  repo: litestar-org/litestar-oracledb
-  github: https://github.com/litestar-org/litestar-oracledb
-  website: https://github.com/litestar-org/litestar-oracledb
-  documentation: https://docs.advanced-alchemy.litestar.dev
-  category: Database
-  type: official
-  maintainers:
-  - name: Cody Fincher
-    github: cofin
-    avatar: https://https://avatars.githubusercontent.com/u/204685?v=4
-  compatibility:
-    litestar: '>=2.0.0'
-  icon: litestar-oracledb.svg
-  stars: 4
-  monthly_downloads: 22
-  latest_version: 0.2.0
-  updated_at: '2024-09-04T20:30:03'
-  created_at: '2024-08-29T19:33:20'
-  python_compatibility_raw: '>=3.8'
-  python_compatibility:
-    raw: '>=3.8'
-    specifier_set: '>=3.8'
-    compatible:
-    - '3.9'
-    - '3.10'
-    - '3.11'
-    - '3.12'
-    - '3.13'
-    - '3.14'
-  changelog: https://litestar-org.github.io/litesatr-oracledb/latest/changelog
-  issues: https://github.com/litestar-org/litestar-oracledb/issues/
 litestar-vite:
   key: litestar-vite
   name: Litestar Vite
@@ -232,7 +232,7 @@ litestar-vite:
     litestar: '>=2.0.0'
   icon: litestar-vite.svg
   stars: 25
-  monthly_downloads: 10716
+  monthly_downloads: 15210
   latest_version: 0.14.2
   updated_at: '2025-08-06T19:54:57'
   created_at: '2023-10-02T01:42:04'
@@ -267,8 +267,8 @@ advanced-alchemy:
   compatibility:
     litestar: '>=2.0.0'
   icon: advanced-alchemy.png
-  stars: 681
-  monthly_downloads: 102457
+  stars: 691
+  monthly_downloads: 113106
   latest_version: 1.8.0
   updated_at: '2025-10-28T21:01:30'
   created_at: '2023-09-17T17:39:42'
@@ -285,16 +285,16 @@ advanced-alchemy:
     - '3.14'
   changelog: https://docs.advanced-alchemy.litestar.dev/latest/changelog
   issues: https://github.com/litestar-org/advanced-alchemy/issues/
-litestar-mcp:
-  key: litestar-mcp
-  name: Litestar MCP
-  description: MCP Plugin for Litestar
-  pypi: litestar-mcp
-  repo: cofin/litestar-mcp
-  github: https://github.com/cofin/litestar-mcp
-  website: https://github.com/cofin/litestar-mcp
+litestar-oracledb:
+  key: litestar-oracledb
+  name: Litestar OracleDB
+  description: OracleDB Plugin for Litestar
+  pypi: litestar-oracledb
+  repo: litestar-org/litestar-oracledb
+  github: https://github.com/litestar-org/litestar-oracledb
+  website: https://github.com/litestar-org/litestar-oracledb
   documentation: https://docs.advanced-alchemy.litestar.dev
-  category: AI
+  category: Database
   type: official
   maintainers:
   - name: Cody Fincher
@@ -302,16 +302,16 @@ litestar-mcp:
     avatar: https://https://avatars.githubusercontent.com/u/204685?v=4
   compatibility:
     litestar: '>=2.0.0'
-  icon: _default_icon.svg
-  stars: 2
-  monthly_downloads: 52
-  latest_version: 0.2.2
-  updated_at: '2025-09-30T12:11:18'
-  created_at: '2025-09-06T19:14:18'
-  python_compatibility_raw: '>=3.9'
+  icon: litestar-oracledb.svg
+  stars: 4
+  monthly_downloads: 16
+  latest_version: 0.2.0
+  updated_at: '2024-09-04T20:30:03'
+  created_at: '2024-08-29T19:33:20'
+  python_compatibility_raw: '>=3.8'
   python_compatibility:
-    raw: '>=3.9'
-    specifier_set: '>=3.9'
+    raw: '>=3.8'
+    specifier_set: '>=3.8'
     compatible:
     - '3.9'
     - '3.10'
@@ -319,5 +319,5 @@ litestar-mcp:
     - '3.12'
     - '3.13'
     - '3.14'
-  changelog: https://docs.litestar-mcp.litestar.dev/latest/changelog
-  issues: https://github.com/litestar-org/litestar-mcp/issues/
+  changelog: https://litestar-org.github.io/litesatr-oracledb/latest/changelog
+  issues: https://github.com/litestar-org/litestar-oracledb/issues/
