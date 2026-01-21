@@ -1,0 +1,34 @@
+key: litestar-email
+name: Litestar Email
+description: Email plugin for litestar
+pypi: litestar-email
+repo: litestar-org/litestar-email
+github: https://github.com/litestar-org/litestar-email
+website: https://github.com/litestar-org/litestar-email
+documentation: https://litestar-org.github.io/litestar-email/
+category: Others
+type: official
+maintainers:
+- name: Cody Fincher
+  github: cofin
+  avatar: https://https://avatars.githubusercontent.com/u/204685?v=4
+compatibility:
+  litestar: '>=2.0.0'
+icon: _default_icon.svg
+stars: 8
+monthly_downloads: 1075
+latest_version: 0.3.0
+updated_at: '2026-01-07T21:25:05'
+created_at: '2026-01-04T21:35:28'
+python_compatibility_raw: '>=3.10'
+python_compatibility:
+  raw: '>=3.10'
+  specifier_set: '>=3.10'
+  compatible:
+  - '3.10'
+  - '3.11'
+  - '3.12'
+  - '3.13'
+  - '3.14'
+changelog: https://github.com/litestar-org/litestar-email/releases/
+issues: https://github.com/litestar-org/litestar-email/issues/

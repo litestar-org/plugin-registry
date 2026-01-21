@@ -8,6 +8,7 @@ Category = Literal[
     "Database",
     "Deployment",
     "Monitoring",
+    "Others",
     "Performance",
     "Serialization",
     "Security",
