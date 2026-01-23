@@ -2,9 +2,9 @@ key: litestar-saq
 name: Litestar SAQ
 description: SAQ Plugin for Litestar
 pypi: litestar-saq
-repo: cofin/litestar-saq
-github: https://github.com/cofin/litestar-saq
-website: https://github.com/cofin/litestar-saq
+repo: litestar-org/litestar-saq
+github: https://github.com/litestar-org/litestar-saq
+website: https://github.com/litestar-org/litestar-saq
 documentation: https://docs.advanced-alchemy.litestar.dev
 category: Background Processing
 type: official
