@@ -15,8 +15,8 @@ maintainers:
 compatibility:
   litestar: '>=2.0.0'
 icon: litestar-vite.svg
-stars: 30
-monthly_downloads: 73926
+stars: 31
+monthly_downloads: 71095
 latest_version: 0.15.0
 updated_at: '2026-04-18T23:15:31'
 created_at: '2023-10-02T01:42:04'
