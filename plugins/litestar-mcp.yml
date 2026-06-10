@@ -16,9 +16,9 @@ compatibility:
   litestar: '>=2.0.0'
 icon: _default_icon.svg
 stars: 8
-monthly_downloads: 2631
-latest_version: 0.7.0
-updated_at: '2026-06-07T15:45:58'
+monthly_downloads: 3102
+latest_version: 0.7.1
+updated_at: '2026-06-09T03:34:08'
 created_at: '2025-09-06T19:14:18'
 python_compatibility_raw: '>=3.10'
 python_compatibility:
@@ -30,5 +30,5 @@ python_compatibility:
   - '3.12'
   - '3.13'
   - '3.14'
-changelog: https://docs.litestar-mcp.litestar.dev/latest/changelog
-issues: https://github.com/litestar-org/litestar-mcp/issues/
+changelog: https://cofin.github.io/litestar-mcp/latest/changelog
+issues: https://github.com/cofin/litestar-mcp/issues/
