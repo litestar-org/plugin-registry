@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none" role="img" aria-label="Litestar Autowire">
+  <title>Litestar Autowire</title>
+  <g stroke="#edb641" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- prongs -->
+    <path d="M26 10 L26 23"/>
+    <path d="M38 10 L38 23"/>
+    <!-- plug body -->
+    <rect x="20" y="23" width="24" height="17" rx="5"/>
+    <!-- cord -->
+    <path d="M32 40 L32 54"/>
+  </g>
+</svg>
