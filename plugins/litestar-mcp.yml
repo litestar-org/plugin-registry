@@ -1,22 +1,22 @@
 key: litestar-mcp
 name: Litestar MCP
-description: MCP Plugin for Litestar
+description: Litestar plugin for Model Context Protocol (MCP) integration
 pypi: litestar-mcp
 repo: cofin/litestar-mcp
 github: https://github.com/cofin/litestar-mcp
-website: https://github.com/cofin/litestar-mcp
-documentation: https://docs.advanced-alchemy.litestar.dev
+website: https://cofin.github.io/litestar-mcp/latest/
+documentation: https://cofin.github.io/litestar-mcp/latest/
 category: AI
 type: official
 maintainers:
 - name: Cody Fincher
   github: cofin
-  avatar: https://https://avatars.githubusercontent.com/u/204685?v=4
+  avatar: https://avatars.githubusercontent.com/u/204685?v=4
 compatibility:
-  litestar: '>=2.0.0'
-icon: _default_icon.svg
+  litestar: '>=2.23.0'
+icon: litestar-mcp.svg
 stars: 12
-monthly_downloads: 7433
+monthly_downloads: 8732
 latest_version: 0.11.1
 updated_at: '2026-07-06T14:54:42'
 created_at: '2025-09-06T19:14:18'
