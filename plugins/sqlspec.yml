@@ -1,19 +1,19 @@
 key: sqlspec
 name: SQLSpec
-description: A query mapper for Python
+description: SQL Experiments in Python
 pypi: sqlspec
 repo: litestar-org/sqlspec
 github: https://github.com/litestar-org/sqlspec
-website: https://github.com/litestar-org/sqlspec
-documentation: https://docs.advanced-alchemy.litestar.dev
+website: https://sqlspec.dev/
+documentation: https://sqlspec.dev/
 category: Database
 type: official
 maintainers:
 - name: Cody Fincher
   github: cofin
-  avatar: https://https://avatars.githubusercontent.com/u/204685?v=4
+  avatar: https://avatars.githubusercontent.com/u/204685?v=4
 compatibility:
-  litestar: '>=2.0.0'
+  litestar: '>=2.22.0'
 icon: _default_icon.svg
 stars: 93
 monthly_downloads: 20007

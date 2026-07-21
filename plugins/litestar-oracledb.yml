@@ -1,19 +1,19 @@
 key: litestar-oracledb
 name: Litestar OracleDB
-description: OracleDB Plugin for Litestar
+description: Oracle DB plugin for Litestar
 pypi: litestar-oracledb
 repo: litestar-org/litestar-oracledb
 github: https://github.com/litestar-org/litestar-oracledb
 website: https://github.com/litestar-org/litestar-oracledb
-documentation: https://docs.advanced-alchemy.litestar.dev
+documentation: https://github.com/litestar-org/litestar-oracledb
 category: Database
 type: official
 maintainers:
 - name: Cody Fincher
   github: cofin
-  avatar: https://https://avatars.githubusercontent.com/u/204685?v=4
+  avatar: https://avatars.githubusercontent.com/u/204685?v=4
 compatibility:
-  litestar: '>=2.0.0'
+  litestar: '>=2.0.29'
 icon: litestar-oracledb.svg
 stars: 4
 monthly_downloads: 41

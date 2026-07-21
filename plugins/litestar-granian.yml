@@ -1,19 +1,19 @@
 key: litestar-granian
 name: Litestar Granian
-description: Granian Plugin for Litestar
+description: Granian plugin for Litestar
 pypi: litestar-granian
 repo: cofin/litestar-granian
 github: https://github.com/cofin/litestar-granian
 website: https://github.com/cofin/litestar-granian
-documentation: https://docs.advanced-alchemy.litestar.dev
+documentation: https://github.com/cofin/litestar-granian
 category: Deployment
 type: official
 maintainers:
 - name: Cody Fincher
   github: cofin
-  avatar: https://https://avatars.githubusercontent.com/u/204685?v=4
+  avatar: https://avatars.githubusercontent.com/u/204685?v=4
 compatibility:
-  litestar: '>=2.0.0'
+  litestar: '>=2.15.0'
 icon: litestar-granian.png
 stars: 43
 monthly_downloads: 31914
