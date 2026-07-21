@@ -1,6 +1,6 @@
 key: litestar-email
 name: Litestar Email
-description: Email plugin for litestar
+description: Email plugin for Litestar
 pypi: litestar-email
 repo: litestar-org/litestar-email
 github: https://github.com/litestar-org/litestar-email
@@ -11,7 +11,7 @@ type: official
 maintainers:
 - name: Cody Fincher
   github: cofin
-  avatar: https://https://avatars.githubusercontent.com/u/204685?v=4
+  avatar: https://avatars.githubusercontent.com/u/204685?v=4
 compatibility:
   litestar: '>=2.0.0'
 icon: _default_icon.svg

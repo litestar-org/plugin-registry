@@ -1,25 +1,25 @@
 key: litestar-vite
 name: Litestar Vite
-description: Vite Plugin for Litestar
-pypi: litestar-granian
+description: Vite plugin for Litestar
+pypi: litestar-vite
 repo: litestar-org/litestar-vite
 github: https://github.com/litestar-org/litestar-vite
-website: https://github.com/litestar-org/litestar-vite
-documentation: https://docs.advanced-alchemy.litestar.dev
-category: Deployment
+website: https://litestar-org.github.io/litestar-vite/
+documentation: https://litestar-org.github.io/litestar-vite/
+category: UI
 type: official
 maintainers:
 - name: Cody Fincher
   github: cofin
-  avatar: https://https://avatars.githubusercontent.com/u/204685?v=4
+  avatar: https://avatars.githubusercontent.com/u/204685?v=4
 compatibility:
-  litestar: '>=2.0.0'
+  litestar: '>=2.22.0'
 icon: litestar-vite.svg
 stars: 34
-monthly_downloads: 34548
-latest_version: 0.15.0
-updated_at: '2026-04-18T23:15:31'
-created_at: '2023-10-02T01:42:04'
+monthly_downloads:
+latest_version: 0.26.1
+updated_at: '2026-07-06T21:00:43'
+created_at: '2023-10-04T03:45:35'
 python_compatibility_raw: '>=3.10'
 python_compatibility:
   raw: '>=3.10'
@@ -30,5 +30,5 @@ python_compatibility:
   - '3.12'
   - '3.13'
   - '3.14'
-changelog: https://cofin.github.io/litesatr-granian/latest/changelog
-issues: https://github.com/cofin/litestar-granian/issues/
+changelog: https://litestar-org.github.io/litestar-vite/changelog.html
+issues: https://github.com/litestar-org/litestar-vite/issues/

@@ -1,19 +1,19 @@
 key: advanced-alchemy
 name: Advanced Alchemy
-description: SQLAlchemy companion
+description: Ready-to-go SQLAlchemy concoctions.
 pypi: advanced-alchemy
 repo: litestar-org/advanced-alchemy
 github: https://github.com/litestar-org/advanced-alchemy
-website: https://github.com/litestar-org/advanced-alchemy
-documentation: https://docs.advanced-alchemy.litestar.dev
+website: https://advanced-alchemy.litestar.dev/latest/
+documentation: https://advanced-alchemy.litestar.dev/latest/
 category: Database
 type: official
 maintainers:
 - name: Cody Fincher
   github: cofin
-  avatar: https://https://avatars.githubusercontent.com/u/204685?v=4
+  avatar: https://avatars.githubusercontent.com/u/204685?v=4
 compatibility:
-  litestar: '>=2.0.0'
+  litestar: '>=2.23.0'
 icon: advanced-alchemy.png
 stars: 791
 monthly_downloads: 392410

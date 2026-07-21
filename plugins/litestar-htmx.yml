@@ -1,17 +1,17 @@
 key: litestar-htmx
 name: Litestar HTMX
-description: HTMX Plugin for Litestar
+description: HTMX Integration for Litestar
 pypi: litestar-htmx
 repo: litestar-org/litestar-htmx
 github: https://github.com/litestar-org/litestar-htmx
 website: https://github.com/litestar-org/litestar-htmx
-documentation: https://docs.advanced-alchemy.litestar.dev
+documentation: https://litestar-org.github.io/litestar-htmx/
 category: UI
 type: official
 maintainers:
 - name: Cody Fincher
   github: cofin
-  avatar: https://https://avatars.githubusercontent.com/u/204685?v=4
+  avatar: https://avatars.githubusercontent.com/u/204685?v=4
 compatibility:
   litestar: '>=2.0.0'
 icon: litestar-htmx.svg
@@ -32,4 +32,4 @@ python_compatibility:
   - '3.13'
   - '3.14'
 changelog: null
-issues: https://github.com/litestar-org/sqlspec/issues/
+issues:
