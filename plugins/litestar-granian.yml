@@ -15,10 +15,10 @@ maintainers:
 compatibility:
   litestar: '>=2.15.0'
 icon: litestar-granian.png
-stars: 43
-monthly_downloads: 31664
+stars: 44
+monthly_downloads: 23404
 latest_version: 0.15.0
-updated_at: '2026-04-18T23:15:31'
+updated_at: '2026-07-25T02:21:57'
 created_at: '2023-10-02T01:42:04'
 python_compatibility_raw: '>=3.10'
 python_compatibility:
