@@ -16,9 +16,9 @@ compatibility:
   litestar: '>=2.15.0'
 icon: litestar-granian.png
 stars: 44
-monthly_downloads: 24909
-latest_version: 0.15.0
-updated_at: '2026-07-25T02:21:57'
+monthly_downloads: 27217
+latest_version: 0.16.0
+updated_at: '2026-08-05T21:26:35'
 created_at: '2023-10-02T01:42:04'
 python_compatibility_raw: '>=3.10'
 python_compatibility:
@@ -30,5 +30,5 @@ python_compatibility:
   - '3.12'
   - '3.13'
   - '3.14'
-changelog: https://cofin.github.io/litesatr-granian/latest/changelog
+changelog: https://github.com/cofin/litestar-granian/blob/main/docs/changelog.rst
 issues: https://github.com/cofin/litestar-granian/issues/
