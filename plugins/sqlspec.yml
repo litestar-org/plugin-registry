@@ -16,9 +16,9 @@ compatibility:
   litestar: '>=2.22.0'
 icon: _default_icon.svg
 stars: 98
-monthly_downloads: 14941
-latest_version: 0.60.0
-updated_at: '2026-08-11T21:55:46'
+monthly_downloads: 15531
+latest_version: 0.61.0
+updated_at: '2026-08-16T23:20:31'
 created_at: '2024-10-30T00:48:46'
 python_compatibility_raw: <4.0,>=3.10
 python_compatibility:
