@@ -16,7 +16,7 @@ compatibility:
   litestar: '>=2.24.0'
 icon: litestar-queues.svg
 stars: 9
-monthly_downloads: 1319
+monthly_downloads: 1324
 latest_version: 0.10.0
 updated_at: '2026-08-30T15:57:33'
 created_at: '2026-06-29T20:51:10'
