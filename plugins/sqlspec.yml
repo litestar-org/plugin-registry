@@ -15,7 +15,7 @@ maintainers:
 compatibility:
   litestar: '>=2.22.0'
 icon: _default_icon.svg
-stars: 102
+stars: 103
 monthly_downloads: 9959
 latest_version: 0.65.0
 updated_at: '2026-09-29T14:47:59'
