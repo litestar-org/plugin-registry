@@ -17,8 +17,8 @@ compatibility:
 icon: litestar-mcp.svg
 stars: 13
 monthly_downloads: 5994
-latest_version: 0.14.0
-updated_at: '2026-09-28T19:28:57'
+latest_version: 0.15.0
+updated_at: '2026-10-09T20:15:39'
 created_at: '2025-09-06T19:14:18'
 python_compatibility_raw: '>=3.10'
 python_compatibility:
