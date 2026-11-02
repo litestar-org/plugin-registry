@@ -17,18 +17,17 @@ compatibility:
 icon: litestar-granian.png
 stars: 44
 monthly_downloads: 16468
-latest_version: 0.16.0
-updated_at: '2026-08-05T21:26:35'
+latest_version: 0.17.0
+updated_at: '2026-11-02T02:21:16'
 created_at: '2023-10-02T01:42:04'
-python_compatibility_raw: '>=3.10'
+python_compatibility_raw: '>=3.11'
 python_compatibility:
-  raw: '>=3.10'
-  specifier_set: '>=3.10'
+  raw: '>=3.11'
+  specifier_set: '>=3.11'
   compatible:
-  - '3.10'
   - '3.11'
   - '3.12'
   - '3.13'
   - '3.14'
-changelog: https://github.com/cofin/litestar-granian/blob/main/docs/changelog.rst
+changelog: https://github.com/cofin/litestar-granian/blob/main/docs/changelog.md
 issues: https://github.com/cofin/litestar-granian/issues/

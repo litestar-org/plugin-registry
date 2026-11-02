@@ -15,7 +15,7 @@ maintainers:
 compatibility:
   litestar: '>=2.0.0'
 icon: litestar-htmx.svg
-stars: 12
+stars: 13
 monthly_downloads: 1664188
 latest_version: 0.5.0
 updated_at: '2025-06-11T21:19:45'
