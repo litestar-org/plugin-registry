@@ -15,10 +15,10 @@ maintainers:
 compatibility:
   litestar: '>=2.22.0'
 icon: _default_icon.svg
-stars: 108
-monthly_downloads: 13318
-latest_version: 0.71.1
-updated_at: '2026-11-06T04:31:56'
+stars: 109
+monthly_downloads: 13857
+latest_version: 0.72.1
+updated_at: '2026-11-18T05:57:27'
 created_at: '2024-10-30T00:48:46'
 python_compatibility_raw: <4.0,>=3.11
 python_compatibility:
